@@ -8,7 +8,7 @@ Végzős mérnökinformatikus hallgató vagyok (6. félév), aki a technológiai
 
 ## 🛠 Tech Stack, amit aktívan használok:
 
-- **Programming:** Python (OOP, Pandas, Tkinter, NLP basics)
+- **Programming:** Python (OOP, Pandas, Tkinter, FastApi NLP basics)
 - **Databases:**
   - **MSSQL / T-SQL:** Komplex lekérdezések, tárolt eljárások (Stored Procedures) és felhasználói függvények (UDF).
   - **SQLite:** Könnyűsúlyú adatbázisok integrálása Python projektekbe.
