@@ -13,15 +13,13 @@ Végzős mérnökinformatikus hallgató vagyok (6. félév), aki a technológiai
   - **MSSQL / T-SQL:** Komplex lekérdezések, tárolt eljárások (Stored Procedures) és felhasználói függvények (UDF).
   - **SQLite:** Könnyűsúlyú adatbázisok integrálása Python projektekbe.
 - **Tools:** Git/GitHub, CMD/Terminal, PyCharm
-- **Currently Learning:** AI/LLM integráció, Backend fejlesztés
+- **Currently Learning:** AI/LLM integráció, Backend fejlesztés, React, js
 
 ---
 
 ## 🚀 Releváns Python Projektek:
 
-- **AI-támogatott Lóverseny Szimuláció:** Egy komplex, objektumorientált (OOP) rendszer, amelyben a versenyek kimenetelét nemcsak matematikai algoritmusok, hanem generatív AI által vezérelt környezeti faktorok is befolyásolják.
 - **KSH CSV Data Processor:** Statisztikai adatok strukturált beolvasása, tisztítása és elemzése Pandas segítségével, kiegészítve lineáris regressziós előrejelzéssel.
-- **NLP-alapú AI Rendeléskövető:** Egy interaktív chatbot, amely természetes nyelvfeldolgozást (NLP) használ a felhasználói kérések értelmezésére és adatbázis-alapú státuszfrissítésre.
 - **Hotel Management System:** Python alapú szobafoglalási rendszer, ahol az OOP szemléletet és a logikai adatszerkezeteket gyakoroltam.
 
 ---
